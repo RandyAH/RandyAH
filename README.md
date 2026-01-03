@@ -5,7 +5,7 @@ how to add the link for the projects template
 -->
 # Randy Hannah
 
-CS senior focused on Machine Learning / Reinforcement Learning. This semester I’m building portfolio projects and strengthening DSA fundamentals.
+CS senior at The University of Alabama focused on Machine Learning / Reinforcement Learning. This semester I’m building portfolio projects and strengthening DSA fundamentals.
 
 ## Current Focus
 - Algorithms & data structures (pattern-based LeetCode practice)
